@@ -7,7 +7,7 @@
 
 ## :link: Demo
 
-- <a target="_blank" href=""> Click Here </a> to see and play by yourself a demo of the game.
+- <a target="_blank" href="https://shl-tic-tac-toe.netlify.app/"> Click Here </a> to see and play by yourself a demo of the game.
 
 <img src="thumbnail.PNG" alt="Weather" width="100%">
 
@@ -47,4 +47,4 @@ $ npm start
 
 ## :mailbox: Contact
 
-- <a target="_blank" href="">LinkedIn</a>
+- <a target="_blank" href="www.linkedin.com/in/shashank-hl">LinkedIn</a>
